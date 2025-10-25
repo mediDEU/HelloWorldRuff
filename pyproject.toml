@@ -1,0 +1,2 @@
+[tool.ruff]
+select = ["ALL"]  # Enable all rules
