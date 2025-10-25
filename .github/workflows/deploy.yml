@@ -14,4 +14,4 @@ jobs:
       - name: Install Ruff
         run: pip install --upgrade ruff
       - name: Run Ruff
-        run: ruff hello.py
+        run: ruff check
